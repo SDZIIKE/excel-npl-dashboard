@@ -23,7 +23,7 @@ The dashboard was designed for operational reporting and management decision-mak
 - VBA / Macros
 
 ## Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](Screenshot 2026-01-06 120539.png)
 
 ## Use Case
 The dashboard supports:
