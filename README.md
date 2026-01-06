@@ -10,7 +10,7 @@ The dashboard was designed for operational reporting and management decision-mak
 
 ## Key Features
 - Interactive KPI tracking for loan portfolio performance
-- Currency-based filtering (USD and ZWG)
+- Currency-based filtering 
 - Branch-level and risk-class analysis
 - Dynamic charts highlighting top NPL contributors
 - Automated weekly and monthly reporting
