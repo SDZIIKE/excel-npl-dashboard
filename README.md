@@ -23,7 +23,7 @@ The dashboard was designed for operational reporting and management decision-mak
 - VBA / Macros
 
 ## Dashboard Preview
-![Dashboard overview](excel-npl-dashboard/Screenshot 2026-01-06 120539.png)
+![Dashboard Preview](Screenshot%202026-01-06%20120539.png)
 
 ## Use Case
 The dashboard supports:
